@@ -10,6 +10,4 @@ public class Product
     public decimal ProductPrice { get; set; }
 
     public int ProductQuantity { get; set;}
-
-
 }
